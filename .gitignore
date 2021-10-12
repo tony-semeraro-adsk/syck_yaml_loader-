@@ -1,0 +1,13 @@
+/.bundle/
+/.idea/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+lib/syck_yaml_reader.bundle
+pkg
+tmp
+/Gemfile.lock
